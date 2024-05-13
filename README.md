@@ -16,7 +16,7 @@
 
 <h3>🚩Regression Project</h3>
 
-<a href=''>
+<a href='https://github.com/Respec-Do/ML_project/wiki/%EC%B0%A8%EB%9F%89-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1'>
   <span>● 차량가격예측</span>
 </a>
 
