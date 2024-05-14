@@ -22,7 +22,7 @@
 
 >>비선형
 
-<a href='https://github.com/Respec-Do/ML_project/wiki/%EC%B0%A8%EB%9F%89-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1'>
+<a href='https://github.com/Respec-Do/ML_project/wiki/%EB%AF%B8%EA%B5%AD-%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84-%EC%A3%BC%EC%9D%98-%EC%A3%BC%ED%83%9D-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1'>
   <span>● 미국 캘리포니아주 주택가격예측</span>
 </a>
 
